@@ -1,0 +1,23 @@
+{
+  "name": "clase02test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "D1-C02.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AgustinKowalczuk/Clase02Test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AgustinKowalczuk/Clase02Test/issues"
+  },
+  "homepage": "https://github.com/AgustinKowalczuk/Clase02Test#readme",
+  "dependencies": {
+    "jest": "^29.4.3"
+  }
+}
